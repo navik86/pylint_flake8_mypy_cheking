@@ -1,0 +1,4 @@
+- ```pip install -r requirements.txt```
+- ```flake8 get_http_methods```
+- ```pylint get_http_methods```
+- ```mypy get_http_methods```
